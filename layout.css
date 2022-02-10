@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=PT+Sans&display=swap");
+html {
+  font-size: 62.5%;
+}
+body {
+  font-family: "PT Sans", sans-serif;
+  font-size: 2rem;
+}
+.container {
+  max-width: 1000px;
+  margin: auto;
+  padding-top: 5rem;
+}
+ul {
+  list-style: none;
+  margin-left: -4rem;
+  padding-top: 3rem;
+}
+.footer {
+  padding-top: 4rem;
+}
